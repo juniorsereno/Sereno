@@ -59,8 +59,7 @@
 
 ## **Experiências:**
 
-[<img align="left" height="94px" width="150px" alt="Logo-BSC" src="https://i.postimg.cc/05htk2PY/BSC.png"/>] 
-**Desenvolvedor Frontend** \
+**Desenvolvedor AI** \
 [**Construção de Agentes de Vendas**] • Creator/Developer \
 Linguagens & Tecnologias: `Python`, `Dify.ai`, `PostgreSQL`, `JavaScript`, `API Rest`,`Context`, `RAG 2.0`,`CRM`
 
