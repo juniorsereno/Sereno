@@ -64,7 +64,7 @@
 Linguagens & Tecnologias: `Python`, `Dify.ai`, `PostgreSQL`, `JavaScript`, `API Rest`,`Context`, `RAG 2.0`,`CRM`
 
 
-<img src="https://github.com/juniorsereno/Sereno/blob/main/github-user-contribution.svg"/>
+<img src="https://github.com/juniorsereno/Sereno/blob/main/github-contribution.svg"/>
 
 
 ## **🎭 Contato:**
