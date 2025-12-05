@@ -63,13 +63,6 @@
 [**Construção de Agentes de Vendas**] • Creator/Developer \
 Linguagens & Tecnologias: `Python`, `Dify.ai`, `PostgreSQL`, `JavaScript`, `API Rest`,`Context`, `RAG 2.0`,`CRM`
 
-## **🚀 Status*:*
-<p align="center">
-
-|Estatisticas|Linguagens|Streaks|
-|-|-|-|
-|[![Lucas da Silva github stats](https://github-readme-stats.vercel.app/api?username=LucasBened&show_icons=true&theme=dracula&hide_title=true)](https://github.com/LucasBened)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBened&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/LucasBened)|![LucasBened](https://github-readme-streak-stats.herokuapp.com/?user=LucasBened&theme=dracula)
-<hr>
 
 <img src="https://github.com/juniorsereno/Sereno/blob/main/github-user-contribution.svg"/>
 
